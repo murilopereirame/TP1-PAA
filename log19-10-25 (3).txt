@@ -1,0 +1,214 @@
+====== Bubble Sort I - Aleatório ======
+Bubble Sort [1000]: 00:00:00.0080828
+Bubble Sort [5000]: 00:00:00.1511191
+Bubble Sort [10000]: 00:00:00.7332551
+Bubble Sort [15000]: 00:00:01.3886612
+Bubble Sort [20000]: 00:00:02.2003866
+Bubble Sort [25000]: 00:00:03.3884798
+====== Bubble Sort I - Ordenado ======
+Bubble Sort [1000]: 00:00:00.0068020
+Bubble Sort [5000]: 00:00:00.0905296
+Bubble Sort [10000]: 00:00:00.3127972
+Bubble Sort [15000]: 00:00:00.6996108
+Bubble Sort [20000]: 00:00:01.2019849
+Bubble Sort [25000]: 00:00:01.9450438
+
+====== Bubble Sort I - Ordenado  Decrescente ======
+Bubble Sort [1000]: 00:00:00.0101558
+Bubble Sort [5000]: 00:00:00.1238505
+Bubble Sort [10000]: 00:00:00.4724126
+Bubble Sort [15000]: 00:00:00.9862392
+Bubble Sort [20000]: 00:00:01.7616751
+Bubble Sort [25000]: 00:00:02.7519439
+
+====== Bubble Sort II - Aleatório ======
+Bubble Sort II [1000]: 00:00:00.0070711
+Bubble Sort II [5000]: 00:00:00.1146116
+Bubble Sort II [10000]: 00:00:00.3876841
+Bubble Sort II [15000]: 00:00:00.8690251
+Bubble Sort II [20000]: 00:00:01.5798070
+Bubble Sort II [25000]: 00:00:02.4563965
+
+====== Bubble Sort II - Ordenado ======
+Bubble Sort II [1000]: 00:00:00.0000075
+Bubble Sort II [5000]: 00:00:00.0000555
+Bubble Sort II [10000]: 00:00:00.0001002
+Bubble Sort II [15000]: 00:00:00.0000963
+Bubble Sort II [20000]: 00:00:00.0001361
+Bubble Sort II [25000]: 00:00:00.0001337
+
+====== Bubble Sort II - Ordenado  Decrescente ======
+Bubble Sort II [1000]: 00:00:00.0047571
+Bubble Sort II [5000]: 00:00:00.0837401
+Bubble Sort II [10000]: 00:00:00.3189484
+Bubble Sort II [15000]: 00:00:00.6825756
+Bubble Sort II [20000]: 00:00:01.2409772
+Bubble Sort II [25000]: 00:00:01.8523310
+
+====== QuickSort - Meio - Aleatório ======
+QuickSort - Meio [1000]: 00:00:00.0011815
+QuickSort - Meio [5000]: 00:00:00.0021899
+QuickSort - Meio [10000]: 00:00:00.0037166
+QuickSort - Meio [15000]: 00:00:00.0050953
+QuickSort - Meio [20000]: 00:00:00.0049711
+QuickSort - Meio [25000]: 00:00:00.0068959
+
+====== QuickSort - Meio - Ordenado ======
+QuickSort - Meio [1000]: 00:00:00.0001447
+QuickSort - Meio [5000]: 00:00:00.0007207
+QuickSort - Meio [10000]: 00:00:00.0008946
+QuickSort - Meio [15000]: 00:00:00.0011418
+QuickSort - Meio [20000]: 00:00:00.0029703
+QuickSort - Meio [25000]: 00:00:00.0029151
+
+====== QuickSort - Meio - Ordenado  Decrescente ======
+QuickSort - Meio [1000]: 00:00:00.0000821
+QuickSort - Meio [5000]: 00:00:00.0007031
+QuickSort - Meio [10000]: 00:00:00.0013300
+QuickSort - Meio [15000]: 00:00:00.0013845
+QuickSort - Meio [20000]: 00:00:00.0013386
+QuickSort - Meio [25000]: 00:00:00.0018142
+
+====== QuickSort - Início - Aleatório ======
+QuickSort - Início [1000]: 00:00:00.0006882
+QuickSort - Início [5000]: 00:00:00.0009146
+QuickSort - Início [10000]: 00:00:00.0037876
+QuickSort - Início [15000]: 00:00:00.0058359
+QuickSort - Início [20000]: 00:00:00.0078787
+QuickSort - Início [25000]: 00:00:00.0048803
+
+====== QuickSort - Início - Ordenado ======
+QuickSort - Início [1000]: 00:00:00.0001326
+QuickSort - Início [5000]: 00:00:00.0007030
+QuickSort - Início [10000]: 00:00:00.0014516
+QuickSort - Início [15000]: 00:00:00.0027029
+QuickSort - Início [20000]: 00:00:00.0024216
+QuickSort - Início [25000]: 00:00:00.0037882
+
+====== QuickSort - Início - Ordenado  Decrescente ======
+QuickSort - Início [1000]: 00:00:00.0002317
+QuickSort - Início [5000]: 00:00:00.0005595
+QuickSort - Início [10000]: 00:00:00.0014982
+QuickSort - Início [15000]: 00:00:00.0023587
+QuickSort - Início [20000]: 00:00:00.0032933
+QuickSort - Início [25000]: 00:00:00.0038930
+
+====== Insertion Sort - Aleatório ======
+Insertion Sort [1000]: 00:00:00.0025294
+Insertion Sort [5000]: 00:00:00.0420632
+Insertion Sort [10000]: 00:00:00.1086131
+Insertion Sort [15000]: 00:00:00.2100626
+Insertion Sort [20000]: 00:00:00.4044327
+Insertion Sort [25000]: 00:00:00.5669987
+
+====== Insertion Sort - Ordenado ======
+Insertion Sort [1000]: 00:00:00.0000181
+Insertion Sort [5000]: 00:00:00.0001020
+Insertion Sort [10000]: 00:00:00.0001329
+Insertion Sort [15000]: 00:00:00.0001534
+Insertion Sort [20000]: 00:00:00.0002301
+Insertion Sort [25000]: 00:00:00.0002878
+
+====== Insertion Sort - Decrescente ======
+Insertion Sort [1000]: 00:00:00.0031962
+Insertion Sort [5000]: 00:00:00.0515653
+Insertion Sort [10000]: 00:00:00.1992462
+Insertion Sort [15000]: 00:00:00.4429365
+Insertion Sort [20000]: 00:00:00.7595238
+Insertion Sort [25000]: 00:00:01.1431795
+
+====== Shell Sort - Aleatório ======
+Shell Sort [1000]: 00:00:00.0009651
+Shell Sort [5000]: 00:00:00.0022566
+Shell Sort [10000]: 00:00:00.0042095
+Shell Sort [15000]: 00:00:00.0077184
+Shell Sort [20000]: 00:00:00.0112649
+Shell Sort [25000]: 00:00:00.0122392
+
+====== Shell Sort - Ordenado ======
+Shell Sort [1000]: 00:00:00.0000668
+Shell Sort [5000]: 00:00:00.0004988
+Shell Sort [10000]: 00:00:00.0009119
+Shell Sort [15000]: 00:00:00.0011509
+Shell Sort [20000]: 00:00:00.0020304
+Shell Sort [25000]: 00:00:00.0020160
+
+====== Shell Sort - Decrescente ======
+Shell Sort [1000]: 00:00:00.0001782
+Shell Sort [5000]: 00:00:00.0007595
+Shell Sort [10000]: 00:00:00.0011961
+Shell Sort [15000]: 00:00:00.0012820
+Shell Sort [20000]: 00:00:00.0038268
+Shell Sort [25000]: 00:00:00.0020910
+
+====== Selection Sort - Aleatório ======
+Selection Sort [1000]: 00:00:00.0038857
+Selection Sort [5000]: 00:00:00.0382992
+Selection Sort [10000]: 00:00:00.1595166
+Selection Sort [15000]: 00:00:00.3826880
+Selection Sort [20000]: 00:00:00.6304439
+Selection Sort [25000]: 00:00:00.9121582
+
+====== Selection Sort - Ordenado ======
+Selection Sort [1000]: 00:00:00.0027010
+Selection Sort [5000]: 00:00:00.0532010
+Selection Sort [10000]: 00:00:00.1345575
+Selection Sort [15000]: 00:00:00.3325754
+Selection Sort [20000]: 00:00:00.5870799
+Selection Sort [25000]: 00:00:00.9077503
+
+====== Selection Sort - Decrescente ======
+Selection Sort [1000]: 00:00:00.0018523
+Selection Sort [5000]: 00:00:00.0395524
+Selection Sort [10000]: 00:00:00.1658326
+Selection Sort [15000]: 00:00:00.3294376
+Selection Sort [20000]: 00:00:00.5972745
+Selection Sort [25000]: 00:00:00.9300565
+
+====== Heap Sort - Aleatório ======
+Heap Sort [1000]: 00:00:00.0016151
+Heap Sort [5000]: 00:00:00.0025615
+Heap Sort [10000]: 00:00:00.0052156
+Heap Sort [15000]: 00:00:00.0059511
+Heap Sort [20000]: 00:00:00.0066881
+Heap Sort [25000]: 00:00:00.0067255
+
+====== Heap Sort - Ordenado ======
+Heap Sort [1000]: 00:00:00.0003447
+Heap Sort [5000]: 00:00:00.0018800
+Heap Sort [10000]: 00:00:00.0037405
+Heap Sort [15000]: 00:00:00.0059890
+Heap Sort [20000]: 00:00:00.0081487
+Heap Sort [25000]: 00:00:00.0054316
+
+====== Heap Sort - Decrescente ======
+Heap Sort [1000]: 00:00:00.0003247
+Heap Sort [5000]: 00:00:00.0014216
+Heap Sort [10000]: 00:00:00.0030512
+Heap Sort [15000]: 00:00:00.0043465
+Heap Sort [20000]: 00:00:00.0086931
+Heap Sort [25000]: 00:00:00.0079432
+
+====== Merge Sort - Aleatório ======
+Merge Sort [1000]: 00:00:00.0009000
+Merge Sort [5000]: 00:00:00.0021064
+Merge Sort [10000]: 00:00:00.0046965
+Merge Sort [15000]: 00:00:00.0097059
+Merge Sort [20000]: 00:00:00.0125115
+Merge Sort [25000]: 00:00:00.0134422
+
+====== Merge Sort - Ordenado ======
+Merge Sort [1000]: 00:00:00.0003836
+Merge Sort [5000]: 00:00:00.0016149
+Merge Sort [10000]: 00:00:00.0041975
+Merge Sort [15000]: 00:00:00.0061433
+Merge Sort [20000]: 00:00:00.0072254
+Merge Sort [25000]: 00:00:00.0081841
+
+====== Merge Sort - Decrescente ======
+Merge Sort [1000]: 00:00:00.0003759
+Merge Sort [5000]: 00:00:00.0018114
+Merge Sort [10000]: 00:00:00.0026975
+Merge Sort [15000]: 00:00:00.0050776
+Merge Sort [20000]: 00:00:00.0058086
+Merge Sort [25000]: 00:00:00.0092345
